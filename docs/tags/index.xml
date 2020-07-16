@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on jpmaservers.fi</title>
-    <link>http://www.jpmaservers.fi/tags/</link>
-    <description>Recent content in Tags on jpmaservers.fi</description>
+    <title>Tags on jpma.fi</title>
+    <link>http://www.jpma.fi/tags/</link>
+    <description>Recent content in Tags on jpma.fi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://www.jpmaservers.fi/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.jpma.fi/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
