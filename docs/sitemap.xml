@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.jpma.fi/about/</loc>
+    <loc>https://www.jpma.fi/about/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.jpma.fi/</loc>
+    <loc>https://www.jpma.fi/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.jpma.fi/post/hello/</loc>
+    <loc>https://www.jpma.fi/post/hello/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.jpma.fi/post/</loc>
+    <loc>https://www.jpma.fi/post/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.jpma.fi/categories/</loc>
+    <loc>https://www.jpma.fi/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.jpma.fi/tags/</loc>
+    <loc>https://www.jpma.fi/tags/</loc>
   </url>
   
 </urlset>

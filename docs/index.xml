@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jpma.fi</title>
-    <link>http://www.jpma.fi/</link>
+    <link>https://www.jpma.fi/</link>
     <description>Recent content on jpma.fi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.jpma.fi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.jpma.fi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://www.jpma.fi/about/</link>
+      <link>https://www.jpma.fi/about/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.jpma.fi/about/</guid>
+      <guid>https://www.jpma.fi/about/</guid>
       <description>Hello! My name is Matias. I&amp;rsquo;ve always been interested in tech, tinkering and electronics. This is a place where I ramble about my ongoing projects and tech related stuff that interest me.
 I&amp;rsquo;ve never been keen on writing anything, I&amp;rsquo;m more of a talker. Even writing e-mails feels unnatural to me. I think e-mails should be coherent and clear and with my lacking writing skill it takes way too long to write them.</description>
     </item>
     
     <item>
       <title>Hello!</title>
-      <link>http://www.jpma.fi/post/hello/</link>
+      <link>https://www.jpma.fi/post/hello/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.jpma.fi/post/hello/</guid>
+      <guid>https://www.jpma.fi/post/hello/</guid>
       <description></description>
     </item>
     
